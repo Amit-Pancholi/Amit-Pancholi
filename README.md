@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Pancholi&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Pancholi&theme=radical" alt="Top Languages" />
 </p>
 
 ---
