@@ -68,7 +68,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amit-Pancholi&show_icons=true&theme=radical&border_radius=10&count_private=true&include_all_commits=true" alt="Amit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Pancholi&theme=radical&border_radius=10" alt="Amit's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amit-Pancholi&show_icons=true&theme=radical&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
