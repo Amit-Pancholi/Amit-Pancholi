@@ -80,7 +80,8 @@
 
 ## 📊 Contribution Graph
 
-[![Amit's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Amit-Pancholi&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/Amit-Pancholi)
+[![Amit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amit-Pancholi&theme=react-dark&bg_color=0D1117&hide_border=true)](https://github.com/Amit-Pancholi)
+
 
 ---
 
